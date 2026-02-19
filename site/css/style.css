@@ -1,0 +1,22 @@
+
+body{
+  background-color: #FFFFF;
+}
+
+h1,h2{
+  font-size: larger;
+  font-family: "Boldonse", system-ui;
+  margin: 20px;
+}
+
+p{ margin: 20px;
+}
+
+li{
+  border: 2px solid rgb(185, 30, 30);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  margin: 20px;
+  padding: 20px;
+  color: royalblue;
+}
