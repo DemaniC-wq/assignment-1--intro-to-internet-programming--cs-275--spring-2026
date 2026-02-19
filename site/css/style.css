@@ -1,6 +1,6 @@
 
 body{
-  background-color: #FFFFF;
+  background-color: #f0f0f0;
 }
 
 h1,h2{
@@ -18,5 +18,5 @@ li{
   font-weight: 600;
   margin: 20px;
   padding: 20px;
-  color: royalblue;
+  color: black;
 }
